@@ -1,0 +1,12 @@
+<svg width="1425" className='absolute z-0 flex ml-[150px] top-[-220px] items-center justify-center' height="1177" viewBox="0 0 1425 1177" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_162_1054)">
+<rect x="1119.8" y="164" width="252.698" height="1149.38" transform="rotate(56.2303 1119.8 164)" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_f_162_1054" x="0.341309" y="0" width="1423.92" height="1176.95" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="82" result="effect1_foregroundBlur_162_1054"/>
+</filter>
+</defs>
+</svg>
